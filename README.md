@@ -31,7 +31,7 @@ This project simulates a real freelance data analysis workflow, starting from ra
 - Public dataset available from the UCI Machine Learning Repository and Kaggle
 
 > **Note:** The dataset is not included in this repository because of GitHub file size limits. You can download it from Kaggle or the UCI Machine Learning Repository.
-
+The link is : https://www.kaggle.com/datasets/luisrenterialezano/retail-sales-dataset
 ---
 
 ## 🛠 Technologies Used
